@@ -7,8 +7,9 @@ addition, subtraction, multiplication, and division. It typically features a use
 can input numbers and select operations, displaying the results in real-time.
 
 
-# Project 2 : To Do List
+# Project 2 : Password Generator
 
-A To-Do List is a simple application that allows users to create, manage, and organize tasks. Users can add
-new tasks, mark them as complete, edit details, and delete tasks, often with options to categorize or
-prioritize them, helping to enhance productivity and time management.
+A password generator is a tool that creates strong, random passwords to enhance security. Users can
+specify criteria such as password length and the inclusion of uppercase letters, lowercase letters,
+numbers, and special characters. The generated passwords are typically complex and difficult to guess,
+helping to protect user accounts and sensitive information.
